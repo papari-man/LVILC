@@ -42,3 +42,4 @@ Unlike previous void models that assumed we are at the center, v9.0 introduces a
 
 ---
 *Dedicated to resolving the mysteries of the cosmos through open science.*
+
