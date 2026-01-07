@@ -11,7 +11,7 @@
 
 Just as water freezes into ice, the vacuum becomes "stiff" below a critical scale ($k_c$), resisting gravitational collapse. This naturally suppresses the formation of dwarf galaxies without affecting large-scale structures.
 
-![Key Results](2026-01-08T005732.223.png)
+![Key Results](5683.png)
 *(Fig 1: Power Spectrum Suppression / Sigma8 Consistency / HMF Suppression)*
 
 ---
